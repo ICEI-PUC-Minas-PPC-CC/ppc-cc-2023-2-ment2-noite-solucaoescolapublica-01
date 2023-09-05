@@ -21,8 +21,8 @@
 
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
-| ETAPA 1 [x] | Definição dosproblemas e formação das equipes [x] |
-| ETAPA 2 [x] | <a href="src/docs/context.md"> Documentação de Contexto</a> <br> <a href="src/docs/specification.md"> Especificação do Projeto</a> <br> <a href="docs/7-Referências.md"> Referências bibliográficas</a> |
+| ETAPA 1 | Definição dosproblemas e formação das equipes [x] |
+| ETAPA 2 | <a href="src/docs/context.md"> Documentação de Contexto</a> <br> <a href="src/docs/specification.md"> Especificação do Projeto</a> <br> <a href="docs/7-Referências.md"> Referências bibliográficas</a> |
 | ETAPA 3 | <a href="docs/3-Detalhamento preliminar.md"> Detalhamento preliminar </a> |
 | ETAPA 4 | <a href="docs/4-Sprint 1.md"> Artefatos da Sprint 1</a> |
 | ETAPA 5 | <a href="docs/5-Sprint 2.md"> Artefatos da Sprint 2</a> |
