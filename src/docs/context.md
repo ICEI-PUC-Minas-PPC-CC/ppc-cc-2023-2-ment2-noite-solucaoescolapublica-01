@@ -37,7 +37,7 @@ A realização deste projeto é fundamentada em diversos fatores que evidenciam 
 
 | Gráfico 1 | Gráfico 2 |
 | --- | --- | 
-| <img src="https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_sociais/2020_11/grafico-sis-nem-nem_UF.jpg"/> | <img src="https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_sociais/2020_11/grafico-sis-nem-nem_sexo-cor-raca.jpg"/> |
+| <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/assets/graph1.png?raw=true" width="400" height="400"/> | <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/assets/graph2.png?raw=true" width="400" height="400"/> |
 
 #  Público-Alvo
 
