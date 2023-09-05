@@ -28,16 +28,16 @@
 > | COMO | QUERO / PRECISO | PARA | 
 > | --- | --- | --- |
 > | Persona 3 | gerar novos dados | adicionar novos livros ao catálogo da biblioteca, incluindo informações como título, autor, gênero e ISBN. |
-> | Persona 3 | editar dados | corrigir informações tais como título, autor, gênero e ISBN.| 
-> | Persona 3 | editar status | alterar status de disponibilidade de um livro ou revista. | 
+> | Persona 3 | editar dados de um livro | corrigir informações tais como título, autor, gênero e ISBN.| 
+> | Persona 3 | editar status um livro | alterar status de disponibilidade de um livro ou revista. | 
 
 
 > `Alocação de Recursos Educacionais`
 
 > | COMO | QUERO / PRECISO | PARA | 
 > | --- | --- | --- |
-> | Persona 4 | gerar relatório | identificar quais livros possuem maior demanda para aquisição de novos exemplares. |
-> | Persona 4 | gerar relatório | ajudar na tomada de decisões para direcionar recursos para bibliotecas que possuem maior demanda. |  
+> | Persona 4 | gerar relatório por biblioteca | identificar quais livros possuem maior demanda para aquisição de novos exemplares. |
+> | Persona 4 | gerar relatório geral | ajudar na tomada de decisões para direcionar recursos para bibliotecas que possuem maior demanda. |  
 
 ## Artefatos para levantamento de dados
 ---
