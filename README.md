@@ -1,26 +1,28 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II`
+`2023 - 2º`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Caio Augusto de Oliveira
+- Yury Regis Neiva Pereira
+- Luis Felipe Lima Balduino
+- Matheus
+- Victor Matos
 
 ## Professor
 
-- Mestre Yoda
+- Luis Gustavo Fogaroli
+- Luuciana de Nardin
 
 # Documentação
 
 | Etapa   |  Atividades |
 |  :----:   | ----------- |
-| ETAPA 1 | Definição dosproblemas e formação das equipes |
-| ETAPA 2 | <a href="docs/1-Documentação de Contexto.md"> Documentação de Contexto</a> <br> <a href="docs/2-Especificação do Projeto.md"> Especificação do Projeto</a> <br> <a href="docs/7-Referências.md"> Referências bibliográficas</a>|
+| ETAPA 1 | Definição dosproblemas e formação das equipes [x] |
+| ETAPA 2 | <a href="src/docs/context.md"> Documentação de Contexto</a> <br> <a href="src/docs/specification.md"> Especificação do Projeto</a> <br> <a href="docs/7-Referências.md"> Referências bibliográficas</a> [x]|
 | ETAPA 3 | <a href="docs/3-Detalhamento preliminar.md"> Detalhamento preliminar </a> |
 | ETAPA 4 | <a href="docs/4-Sprint 1.md"> Artefatos da Sprint 1</a> |
 | ETAPA 5 | <a href="docs/5-Sprint 2.md"> Artefatos da Sprint 2</a> |
