@@ -55,8 +55,8 @@
 | RF-008 | Visualização de relatórios de demanda de livros nas escolas públicas.	| Alta |
 | RF-009 | Gerenciar livros e seus exemplares.	| Alta |
 | RF-010 | Renovação de livros. | Média |
-| RF-010 | Categorização de livros quando cadastrar. | Média |
-
+| RF-011 | Categorização de livros quando cadastrar. | Média |
+| RF-012 | Criação de um acervo digital. | Alta |
 
 `Não-Funcionais`
 
@@ -71,7 +71,7 @@
 |RNF-007 |	Manutenibilidade e escalabilidade do sistema.	| Média |
 |RNF-008 |	Acessibilidade para usuários com deficiências. |	Alta |
 |RNF-009 |	Backup e recuperação de dados confiáveis. |	Alta |
-|RNF-010 | Emissão de alertas para devolução dos livros quando o prazo estiver próximo do findo.| Alta |
+|RNF-010 | Emissão de alertas para devolução dos livros quando o prazo estiver próximo ao fim| Alta |
 
 ## Artefatos para levantamento de dados
 ---
