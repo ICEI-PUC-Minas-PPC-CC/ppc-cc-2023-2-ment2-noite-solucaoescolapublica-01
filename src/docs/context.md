@@ -23,7 +23,7 @@ O objetivo principal deste projeto é desenvolver um sistema de catalogação de
 A realização deste projeto é fundamentada em diversos fatores que evidenciam a importância de resolver o problema em questão. A seguir, apresentamos as principais razões que embasam nossa escolha dos objetivos específicos, quantificando o problema e destacando sua relevância:
 
 > ### **Falta de Acesso a Recursos Educacionais:** 
-> Segundo o [Instituto Brasileiro de Geografia e Estatística (IBGE)](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/29434-oito-em-cada-dez-jovens-que-nunca-frequentaram-escola-estavam-sem-ocupacao-em-2019), em 2020, mais de 1 milhão de jovens brasileiros entre 15 e 29 anos não frequentavam a escola. A dificuldade de acesso a materiais educacionais, como livros, é um dos fatores que contribuem para esse cenário alarmante.
+> Segundo o [Instituto Brasileiro de Geografia e Estatística (IBGE)](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/29434-oito-em-cada-dez-jovens-que-nunca-frequentaram-escola-estavam-sem-ocupacao-em-2019) [1], em 2020, mais de 1 milhão de jovens brasileiros entre 15 e 29 anos não frequentavam a escola. A dificuldade de acesso a materiais educacionais, como livros, é um dos fatores que contribuem para esse cenário alarmante.
 > ### **Desafios Educacionais em Escolas Públicas:**
 > As escolas públicas muitas vezes enfrentam desafios relacionados à falta de recursos educacionais adequados. A disponibilidade de livros nas bibliotecas públicas pode ajudar a preencher essa lacuna e melhorar a qualidade da educação.
 > ### **Estímulo à Leitura:** 
