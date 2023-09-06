@@ -11,33 +11,63 @@
 
 ## Histórias de Usuário
 
-> `Pesquisa de Livro para Trabalho Escolar` 
+ `Pesquisa de Livro para Trabalho Escolar` 
 
-> | COMO | QUERO / PRECISO | PARA | 
-> | --- | --- | --- |
-> | Persona 1 | pesquisar livros por gênero | encontrar facilmente livros de aventura para meu trabalho escolar. |
-> | Persona 1 | ver informações detalhadas | identificar autor, sinopse e disponibilidade na biblioteca. | 
-> | Persona 1 | pesquisar livro | encontrar biblioteca mais próxima que possui o livro que escolhi. |
-> | Persona 3 | pesquisar livro | indicar outra biblioteca, na falta do exemplar desejado. |
-> | Persona 2 | pesquisar livros por autor | usar como referência em minhas aulas. |
-> | Persona 2 | pesquisar livros por tema | criar uma lista de indicações para meus alunos. | 
-
-
-> `Manutenção do Catálogo de Livros`
-
-> | COMO | QUERO / PRECISO | PARA | 
-> | --- | --- | --- |
-> | Persona 3 | gerar novos dados | adicionar novos livros ao catálogo da biblioteca, incluindo informações como título, autor, gênero e ISBN. |
-> | Persona 3 | editar dados de um livro | corrigir informações tais como título, autor, gênero e ISBN.| 
-> | Persona 3 | editar status um livro | alterar status de disponibilidade de um livro ou revista. | 
+ | COMO | QUERO / PRECISO | PARA | 
+ | --- | --- | --- |
+ | Persona 1 | pesquisar livros por gênero | encontrar facilmente livros de aventura para meu trabalho escolar. |
+ | Persona 1 | ver informações detalhadas | identificar autor, sinopse e disponibilidade na biblioteca. | 
+ | Persona 1 | pesquisar livro | encontrar biblioteca mais próxima que possui o livro que escolhi. |
+ | Persona 3 | pesquisar livro | indicar outra biblioteca, na falta do exemplar desejado. |
+ | Persona 2 | pesquisar livros por autor | usar como referência em minhas aulas. |
+ | Persona 2 | pesquisar livros por tema | criar uma lista de indicações para meus alunos. | 
 
 
-> `Alocação de Recursos Educacionais`
+ `Manutenção do Catálogo de Livros`
 
-> | COMO | QUERO / PRECISO | PARA | 
-> | --- | --- | --- |
-> | Persona 4 | gerar relatório por biblioteca | identificar quais livros possuem maior demanda para aquisição de novos exemplares. |
-> | Persona 4 | gerar relatório geral | ajudar na tomada de decisões para direcionar recursos para bibliotecas que possuem maior demanda. |  
+ | COMO | QUERO / PRECISO | PARA | 
+ | --- | --- | --- |
+ | Persona 3 | gerar novos dados | adicionar novos livros ao catálogo da biblioteca, incluindo informações como título, autor, gênero e ISBN. |
+ | Persona 3 | editar dados de um livro | corrigir informações tais como título, autor, gênero e ISBN.| 
+ | Persona 3 | editar status um livro | alterar status de disponibilidade de um livro ou revista. | 
+
+
+ `Alocação de Recursos Educacionais`
+
+ | COMO | QUERO / PRECISO | PARA | 
+ | --- | --- | --- |
+ | Persona 4 | gerar relatório por biblioteca | identificar quais livros possuem maior demanda para aquisição de novos exemplares. |
+ | Persona 4 | gerar relatório geral | ajudar na tomada de decisões para direcionar recursos para bibliotecas que possuem maior demanda. |  
+
+## Requisitos 
+
+`Funcionais`
+
+| ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
+| --- | --- | --- |
+| RF-001 | Pesquisa de livros por gênero.	| Alta |
+| RF-002 | Exibição de informações detalhadas dos livros.	| Alta |
+| RF-003 | Localização da biblioteca mais próxima com o livro desejado.	| Alta |
+| RF-004 | Busca de livros de referência por temas específicos.	| Média |
+| RF-005 | Criação de listas de livros recomendados para alunos. | Média |
+| RF-006 | Adição de novos livros ao catálogo da biblioteca.	| Alta |
+| RF-007 | Atualização do status de disponibilidade dos livros.	| Alta |
+| RF-008 | Visualização de relatórios de demanda de livros nas escolas públicas.	| Alta |
+| RF-009 | Recebimento de alertas sobre livros de referência em baixa nas bibliotecas públicas.	| Alta |
+
+`Não-Funcionais`
+
+| ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
+| --- | --- | --- |
+|RNF-001 |	Conformidade com regulamentos de proteção de dados (LGPD). |	Alta |
+|RNF-002 |	Compatibilidade com diferentes dispositivos (computadores, smartphones). |	Alta |
+|RNF-003 |	Integração com sistemas de autenticação de usuário, como login único (SSO). |	Alta |
+|RNF-004 |	Suporte a múltiplos idiomas. |	Baixa |
+|RNF-005 |	Documentação detalhada para administradores do sistema.	| Média |
+|RNF-006 |	Tempo de resposta aceitável para as consultas de catálogo. |	Alta |
+|RNF-007 |	Manutenibilidade e escalabilidade do sistema.	| Média |
+|RNF-008 |	Acessibilidade para usuários com deficiências. |	Alta |
+|RNF-009 |	Backup e recuperação de dados confiáveis. |	Alta |
 
 ## Artefatos para levantamento de dados
 ---
