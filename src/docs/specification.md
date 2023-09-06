@@ -54,7 +54,8 @@
 | RF-007 | Atualização do status de disponibilidade dos livros.	| Alta |
 | RF-008 | Visualização de relatórios de demanda de livros nas escolas públicas.	| Alta |
 | RF-009 | Recebimento de alertas sobre livros de referência em baixa nas bibliotecas públicas.	| Alta |
-
+| RF-010 | Renovação de livros. | Média |
+| RF-011 | Emissão de alertas para devolução dos livros quando o prazo estiver próximo do findo.| Alta |
 `Não-Funcionais`
 
 | ID | DESCRIÇÃO DO REQUISITO | PRIORIDADE |
