@@ -6,7 +6,7 @@ As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, n
 
 Exemplos de referências:
 
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
+[1] https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/29434-oito-em-cada-dez-jovens-que-nunca-frequentaram-escola-estavam-sem-ocupacao-em-2019 INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA EM PESQUISA REALIZADA NO PERÍODO DE 2019 A 2020;
 
 [2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
 
