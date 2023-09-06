@@ -9,7 +9,7 @@
 - Caio Augusto de Oliveira
 - Yury Regis Neiva Pereira
 - Luis Felipe Lima Balduino
-- Matheus
+- Matheus Eduardo Silva
 - Victor Matos
 
 ## Professor
