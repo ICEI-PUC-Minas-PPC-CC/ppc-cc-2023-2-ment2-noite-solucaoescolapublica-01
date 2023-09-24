@@ -49,10 +49,10 @@ Apresentamos o cronograma de capacitação em kits Arduino na Escola Padrão. Du
 | AULA | DESCRIÇÃO DO CONTEÚDO ABORDADO | TEMPO NECESSÁRIO |
 | --- | --- | --- |
 | 1 | <p>- Apresentação dos conceitos básicos do Arduino;<br />- Demonstração do ambiente de programação;<p/> | 1h 20 min |
-| 2 | <p>- Introdução à linguagem de programação Arduino;<br />- Exercícios práticos;<p/> | 1h 20 min |
-| 3 | <p>- Exploração de sensores e atuadores comuns;<br />- Exercícios práticos;<p/> | 1h 20 min |
-| 4 | <p>- Início do desenvolvimento do mini-projeto selecionado;<br />- Programação (revisão);<p/> | 1h 20 min |
-| 5 | <p>- Continuação do desenvolvimento do mini-projeto selecionado;<br />- Programação (revisão);<p/> | 1h 20 min |
-| 6 | <p>- Apresentação do mini-projeto;<br />- Discussão sobre como os projetos podem ser usados como recursos didáticos;<br />- Encerramento do curso<p/> | 1h 20 min |
+| 2 | <p>- Introdução à linguagem de programação Arduino;<br />- Exercícios práticos;<p/> | 1h 40 min |
+| 3 | <p>- Exploração de sensores e atuadores comuns;<br />- Exercícios práticos;<p/> | 1h 40 min |
+| 4 | <p>- Início do desenvolvimento do mini-projeto selecionado;<br />- Programação (revisão);<p/> | 1h 40 min |
+| 5 | <p>- Continuação do desenvolvimento do mini-projeto selecionado;<br />- Programação (revisão);<p/> | 1h 40 min |
+| 6 | <p>- Apresentação do mini-projeto;<br />- Discussão sobre como os projetos podem ser usados como recursos didáticos;<br />- Encerramento do curso<p/> | 1h 40 min |
 
-**OBS:.** Para as aulas do Curso de Capacitação em Arduino, estamos considerando a disponibilidade do horário de aula de uma turma de T.I, como sendo de dois blocos de 50 minutos, totalizando assim, 1h e 20min de aula.
+**OBS:.** Para as aulas do Curso de Capacitação em Arduino, estamos considerando a disponibilidade do horário de aula de uma turma de T.I, como sendo de dois blocos de 50 minutos, totalizando assim, 1h e 40min o tempo de uma aula.
