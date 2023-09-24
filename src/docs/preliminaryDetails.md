@@ -10,6 +10,9 @@ A segunda equipe, por sua vez, se comprometerá a analisar os kits Arduino e des
 
 Estamos cientes de que ainda há um terceiro desafio, relacionado à falta de professores especializados em T.I. Embora nossa proposta atual não aborde esse problema diretamente, nossa equipe está aberta a discutir futuras iniciativas para suprir essa necessidade e aprimorar ainda mais o ambiente de ensino na Escola Padrão. <br /><br />
 
+> **LINK DA CARTA-PROPOSTA**
+> 
+> 👉🏼 [Carta-Proposta (clique aqui)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/docs/proposal.docx)
 
 ## Cronograma Preliminar
 
@@ -48,7 +51,7 @@ Apresentamos o cronograma de capacitação em kits Arduino na Escola Padrão. Du
 
 | AULA | DESCRIÇÃO DO CONTEÚDO ABORDADO | TEMPO NECESSÁRIO |
 | --- | --- | --- |
-| 1 | <p>- Apresentação dos conceitos básicos do Arduino;<br />- Demonstração do ambiente de programação;<p/> | 1h 20 min |
+| 1 | <p>- Apresentação dos conceitos básicos do Arduino;<br />- Demonstração do ambiente de programação;<p/> | 1h 40 min |
 | 2 | <p>- Introdução à linguagem de programação Arduino;<br />- Exercícios práticos;<p/> | 1h 40 min |
 | 3 | <p>- Exploração de sensores e atuadores comuns;<br />- Exercícios práticos;<p/> | 1h 40 min |
 | 4 | <p>- Início do desenvolvimento do mini-projeto selecionado;<br />- Programação (revisão);<p/> | 1h 40 min |
