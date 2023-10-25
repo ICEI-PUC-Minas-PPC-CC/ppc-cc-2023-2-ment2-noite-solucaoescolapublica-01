@@ -10,15 +10,16 @@
 ## Integrantes
 
 - Caio Augusto de Oliveira
-- Yury Regis Neiva Pereira
 - Luis Felipe Lima Balduino
 - Matheus Eduardo Silva
 - Victor Matos
+- Yury Regis Neiva Pereira
 
 ## Professor
 
+- Luciana de Nardin
 - Luis Gustavo Fogaroli
-- Luuciana de Nardin
+  
 
 # Documentação
 
