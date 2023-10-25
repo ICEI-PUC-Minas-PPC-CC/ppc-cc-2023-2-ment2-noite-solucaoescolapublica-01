@@ -11,10 +11,22 @@ O Chromebook é um dispositivo leve com sistema operacional Chrome OS, equipado 
 ### Aula 1 - 21/10/23
 No dia 21 de outubro de 2023, os instrutores Caio e Victor ministraram a primeira aula de introdução ao Chromebook na Escola Padrão. A aula abordou tópicos como roteamento de internet a partir de dispositivos móveis para o Chromebook, armazenamento em nuvem, o uso de Inteligência Artificial Generativa como ferramenta de ensino e a demonstração do Kahoot para revisão do conteúdo.
 
+#### A aula correu muito bem e os professores da escola desmonstraram um apreço muito grande pela iniciativa, gostaram muito de todas as partes e apresentaram a demanda de quererem uma parte maior da aula somente para falar sobre o chatGPT, seus pontos fortes, fracos e no que ele pode nos servir melhor a partir do ponto de vista dos professores, eles gostaram muito e esperam anciosamente pela próxima aula do dia 28/10.
+
 - **Slides da Aula 1:** [Slides google drive](https://docs.google.com/presentation/d/1fm_bP3S5OGimDrTWT1FNjh-QdRBlh7NVuJcbHSKa9Cg/edit?usp=sharing) , [Slides iniciais](https://docs.google.com/presentation/d/1oKlaChRhxRGMG1rifv9bV4oL8uy3xv2t/edit#slide=id.p1)
 
 - **Fotos:**
-  (Inserir fotos tiradas na escola com os envolvidos)
+  <div style="display: flex;">
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_103657.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_103659.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_103702.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_104125.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_104554.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_104555.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_104559.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_113247.jpg" width="400px" />
+    <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/20231021_113300.jpg" width="400px" />
+  </div>
 
 ---
 
