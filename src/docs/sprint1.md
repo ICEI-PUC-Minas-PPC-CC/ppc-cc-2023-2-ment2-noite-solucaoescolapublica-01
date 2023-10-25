@@ -11,7 +11,7 @@ O Chromebook é um dispositivo leve com sistema operacional Chrome OS, equipado 
 ### Aula 1 - 21/10/23
 No dia 21 de outubro de 2023, os instrutores Caio e Victor ministraram a primeira aula de introdução ao Chromebook na Escola Padrão. A aula abordou tópicos como roteamento de internet a partir de dispositivos móveis para o Chromebook, armazenamento em nuvem, o uso de Inteligência Artificial Generativa como ferramenta de ensino e a demonstração do Kahoot para revisão do conteúdo.
 
-- **Slides da Aula 1:** [Link para os slides](inserir-link-aqui)
+- **Slides da Aula 1:** [Slides google drive](https://docs.google.com/presentation/d/1fm_bP3S5OGimDrTWT1FNjh-QdRBlh7NVuJcbHSKa9Cg/edit?usp=sharing) , [Slides iniciais](https://docs.google.com/presentation/d/1oKlaChRhxRGMG1rifv9bV4oL8uy3xv2t/edit#slide=id.p1)
 
 - **Fotos:**
   (Inserir fotos tiradas na escola com os envolvidos)
