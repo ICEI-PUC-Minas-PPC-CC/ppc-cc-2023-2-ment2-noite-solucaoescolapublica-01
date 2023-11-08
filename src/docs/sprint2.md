@@ -12,7 +12,7 @@ O Chromebook é um dispositivo leve com sistema operacional Chrome OS, equipado 
 No dia 28 de outubro de 2023,Matheus Eduardo e Luis Felipe visitaram a Escola Padrão para conduzir a segunda aula sobre o Chromebook. Durante essa sessão, eles se encarregaram de apresentar aplicativos e sites úteis para auxiliar os professores em suas aulas, como o Kahoot, um site que permite aos professores criar quizzes rápidos para revisão de provas. Além disso, introduziram o Bard, a Inteligência Artificial da Google. Esta ferramenta chamou a atenção dos professores, pois poderia ajudar na elaboração de atividades educativas. Embora tenha havido um consenso de que o Bard não era tão eficaz em disciplinas exatas, os professores concordaram que seria de grande auxílio em outras áreas. Por exemplo, uma professora de biologia mencionou que o Bard poderia ser utilizado para criar tarefas específicas para um aluno especial em sua turma.
 
 
-- **Slides da Aula 1:** [Slides ](https://onedrive.live.com/view.aspx?resid=D4FC8E9F1C1F4BAB!4951&ithint=file%2cpptx&wdo=2&authkey=!AMoLRc5ViiiGmk0) 
+- **Slides da Aula 2:** [Slides ](https://onedrive.live.com/view.aspx?resid=D4FC8E9F1C1F4BAB!4951&ithint=file%2cpptx&wdo=2&authkey=!AMoLRc5ViiiGmk0) 
 - **Fotos:**
   <div style="display: flex;">
     <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-noite-solucaoescolapublica-01/blob/main/src/chromebook%20padrao/2b591eb4-e0fd-4652-8b34-da8327dcadfa.jfif" width="400px" />
