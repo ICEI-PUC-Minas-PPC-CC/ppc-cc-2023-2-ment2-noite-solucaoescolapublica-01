@@ -1,3 +1,5 @@
-# Apresentação da Solução
+# Aulas da Escola Padrão sobre os Chromebook
 
-Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
+# link do vídeo da aula 01(Caio e Vitor): https://youtu.be/0Ia_k14loW8
+
+# link do vídeo da aula 02(Matheus e Luis Felipe): https://youtu.be/IzbXAv9Gw3U
